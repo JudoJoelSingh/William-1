@@ -1,0 +1,12 @@
+# William-1 Dependencies
+python-dotenv==1.0.1
+SpeechRecognition==3.10.4
+PyAudio==0.2.14
+faster-whisper==1.0.3
+pyttsx3==2.98
+openai==1.54.0
+requests==2.32.3
+numpy==1.26.4
+rich==13.9.4
+colorama==0.4.6
+psutil>=5.9.0
